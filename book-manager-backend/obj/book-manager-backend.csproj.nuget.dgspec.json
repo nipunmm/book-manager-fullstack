@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Interview\\book-manager-backend\\book-manager-backend.csproj": {}
+    "D:\\Projects\\Interview\\BookManagerApp\\book-manager-backend\\book-manager-backend.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Interview\\book-manager-backend\\book-manager-backend.csproj": {
+    "D:\\Projects\\Interview\\BookManagerApp\\book-manager-backend\\book-manager-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Interview\\book-manager-backend\\book-manager-backend.csproj",
+        "projectUniqueName": "D:\\Projects\\Interview\\BookManagerApp\\book-manager-backend\\book-manager-backend.csproj",
         "projectName": "book-manager-backend",
-        "projectPath": "D:\\Projects\\Interview\\book-manager-backend\\book-manager-backend.csproj",
+        "projectPath": "D:\\Projects\\Interview\\BookManagerApp\\book-manager-backend\\book-manager-backend.csproj",
         "packagesPath": "C:\\Users\\nipun\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Interview\\book-manager-backend\\obj\\",
+        "outputPath": "D:\\Projects\\Interview\\BookManagerApp\\book-manager-backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
